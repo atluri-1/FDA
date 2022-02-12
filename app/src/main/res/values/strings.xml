@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FDA</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signuphere">Sign Up</string>
+    <string name="signupherenup">Sign In</string>
+    <string name="email">Email</string>
+    <string name="fullname">FullName</string>
+    <string name="signup">Sign Up</string>
+    <string name="furnituredisplayapplication">Furniture Display Application</string>
+</resources>
